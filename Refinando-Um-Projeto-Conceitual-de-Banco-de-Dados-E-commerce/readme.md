@@ -27,9 +27,9 @@ Projeto criado para o curso "Refinando um projeto conceitual de banco de dados -
 - Narrativa: Escopo de universidade ✅
 - Modelando o cenário de universidade ✅
 - Refinando o modelo - universidade ✅
-- Narrativa: Escopo de e-commerce
-- Modelando o cenário de e-commerce
-- Entendendo o desafio: refinando um projeto conceitual de banco de dados - E-commerce
-- Instrução para sua entrega
+- Narrativa: Escopo de e-commerce ✅
+- Modelando o cenário de e-commerce ✅
+- Entendendo o desafio: refinando um projeto conceitual de banco de dados - E-commerce ✅
+- Instrução para sua entrega ✅
 
 ---
