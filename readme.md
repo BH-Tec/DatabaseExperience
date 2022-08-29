@@ -21,13 +21,13 @@ Projeto criado para o curso "Database Experience" da DIO.
 
 ### Módulo 1: Banco de Dados SQL
 
-- Contextualização do cenário na Área de Banco de Dados
-- Explorando a Abordagem de SGBDs
-- Overview sobre Modelagem de Dados
-- Arquitetura de Banco de Dados
-- Fundamentos de Modelagem e Projetos de Banco de Dados
-- Explorando o Modelo ER - Entidade Relacionamento
-- Modelagem de Dados com EER - Enhanced Entity Relationship
+- Contextualização do cenário na Área de Banco de Dados ✅
+- Explorando a Abordagem de SGBDs ✅
+- Overview sobre Modelagem de Dados ✅
+- Arquitetura de Banco de Dados ✅
+- Fundamentos de Modelagem e Projetos de Banco de Dados ✅
+- Explorando o Modelo ER - Entidade Relacionamento ✅
+- Modelagem de Dados com EER - Enhanced Entity Relationship ✅
 - Refinando um projeto conceitual de banco de dados - E-Commerce
 - Construindo um esquema conceitual do zero
 - Modelo relacional e mapeamento ER/Relacional
