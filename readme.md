@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <a href="">Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+  <<a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">📝 License</a>
 </p>
 
 <p align="center">
@@ -15,32 +16,18 @@
 
 Projeto criado para o curso "Database Experience" da DIO.
 
----
+## 🚀 Tecnologias
 
-## 📚 Aulas
+- Banco de Dados SQL
+- Banco de Dados NoSQL
+- SGBDs
+- Modelagem de Dados
+  - Modelo ER
+  - Modelo EER
+- MongoDB
 
-### Módulo 1: Banco de Dados SQL
+## 📝 License
 
-- Contextualização do cenário na Área de Banco de Dados ✅
-- Explorando a Abordagem de SGBDs ✅
-- Overview sobre Modelagem de Dados ✅
-- Arquitetura de Banco de Dados ✅
-- Fundamentos de Modelagem e Projetos de Banco de Dados ✅
-- Explorando o Modelo ER - Entidade Relacionamento ✅
-- Modelagem de Dados com EER - Enhanced Entity Relationship ✅
-- Refinando um projeto conceitual de banco de dados - E-Commerce
-- Construindo um esquema conceitual do zero
-- Modelo relacional e mapeamento ER/Relacional
-- Primeiros passos com SQL
-- Explorando queries com SQL
-- Criando queires com funções e cláusulas de agrupamentos
-- Agrupando registros e tabelas com Join Stattement
-- Construindo seu primeiro projeto lógico de banco de dados
-- Construa um projeto lógico de banco de dados do zero
-
-### Módulo 2: Banco de Dados NoSQL
-
-- Introdução ao MongoDB e Banco de Dados NoSQL ✅
-- O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
