@@ -8,6 +8,10 @@
   <a href="#-license">📝 License</a>
 </p>
 
+<h2 align="center">
+  <img src="./assets/database-experience.webp" width="250px">
+</h2>
+
 <p align="center">
 <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/9fdd8908-40d0-4cc0-96e4-dc945ce13818"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/9fdd8908-40d0-4cc0-96e4-dc945ce13818.svg" alt="wakatime"></a>
 </p>
